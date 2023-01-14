@@ -1,0 +1,2 @@
+rootProject.name='MYhome'
+include ':app', ':mysql-connector', ':picasso-2.5.2'
